@@ -1,0 +1,7 @@
+{
+  "name": "simple-web3-wallet-checker",
+  "version": "1.0.0",
+  "description": "A simple beginner Web3 wallet checker project",
+  "main": "app.js",
+  "license": "MIT"
+}
